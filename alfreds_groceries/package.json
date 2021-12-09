@@ -1,0 +1,27 @@
+{
+  "name": "alfreds_groceries",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Alfreds_groceries",
+  "author": "Alfred",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "axios": "^0.23.0",
+    "babel-plugin-styled-components": "^1.13.2",
+    "gatsby": "^3.13.1",
+    "gatsby-plugin-styled-components": "^4.14.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-redux": "^7.2.5",
+    "styled-components": "^5.3.1"
+  }
+}
